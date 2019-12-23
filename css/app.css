@@ -1,0 +1,13 @@
+.shop-url {
+  width: 35rem;
+  margin-bottom: 1rem;
+  font: 400 1.6rem "ShopifySans", -apple-system, BlinkMacSystemFont, San Francisco, Roboto, Segoe UI, Helvetica Neue, sans-serif;
+}
+
+.shop-url label {
+  font-size: 1.8rem;
+}
+
+.shop-url .Polaris-TextField__Input {
+  padding: 1.6rem;
+}

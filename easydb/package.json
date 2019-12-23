@@ -1,0 +1,11 @@
+{
+  "name": "dbviewer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node dbviewer.js"
+  },
+  "dependencies": {
+    "easydb-io": "^2.0.0"
+  }
+}
