@@ -12,7 +12,7 @@ Create .\\.env.local with
 
 SRDBG=TRUE  
 
-Create 1-click, no-login db at [www.easydb.io](www.easydb.io). Put API keys into .\\server\\db.js.
+Create 1-click, no-login db at [www.easydb.io](https://www.easydb.io). Put API keys into .\\server\\db.js.
 
 ### Run
 1. Setup your shopify app in the partner dashboard, you'll need a public facing https url
